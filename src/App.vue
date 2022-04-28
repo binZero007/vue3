@@ -4,6 +4,7 @@
     <router-link to="/about">About</router-link>
   </nav>
   <router-view/>
+  <!-- 测试二 -->
 </template>
 
 <style>
