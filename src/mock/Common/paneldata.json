@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "操作成功",
+  "data": [
+    {
+      "date": "09.13",
+      "dateCN": "周一",
+      "tasks": 4,
+      "normalHour": 8,
+      "addHour": 0,
+      "id": 1
+    },
+    {
+      "date": "09.14",
+      "dateCN": "周二",
+      "tasks": 3,
+      "normalHour": 8,
+      "addHour": 0,
+      "id": 2
+    },
+    {
+      "date": "09.15",
+      "dateCN": "周三",
+      "tasks": 3,
+      "normalHour": 8,
+      "addHour": 0,
+      "id": 3
+    },
+    {
+      "date": "09.16",
+      "dateCN": "周四",
+      "tasks": 2,
+      "normalHour": 8,
+      "addHour": 0,
+      "id": 4
+    },
+    {
+      "date": "09.17",
+      "dateCN": "周五",
+      "tasks": 0,
+      "normalHour": 6,
+      "addHour": 0,
+      "id": 5
+    },
+    {
+      "date": "09.18",
+      "dateCN": "周六",
+      "tasks": 0,
+      "normalHour": 8,
+      "addHour": 0,
+      "id": 6
+    },
+    {
+      "date": "09.19",
+      "dateCN": "周日",
+      "tasks": 0,
+      "normalHour": 8,
+      "addHour": 0,
+      "id": 7
+    }
+  ]
+}
